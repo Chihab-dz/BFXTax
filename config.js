@@ -38,3 +38,5 @@ client.on('messageCreate', message => {
 });
 
 client.login('VTGneF5bjCz7rKDfQ2GyC_x8T0WIwHCC'); // ضع توكن البوت هنا
+node index.js
+
