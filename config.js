@@ -37,4 +37,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login('YOUR_BOT_TOKEN'); // ضع توكن البوت هنا
+client.login('VTGneF5bjCz7rKDfQ2GyC_x8T0WIwHCC'); // ضع توكن البوت هنا
